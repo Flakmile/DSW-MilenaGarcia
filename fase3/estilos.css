@@ -47,6 +47,9 @@ menu{
     right: 140px;
 }
 article{
-    background-color: darksalmon;
+    background-color: rgb(199, 144, 126);
+    text-align: justify;
+}
+h3{
     text-align: center;
 }
